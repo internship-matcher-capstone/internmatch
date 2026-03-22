@@ -18,3 +18,5 @@ data/processed/*
 # Keep folders
 !data/interim/.gitkeep
 !data/processed/.gitkeep
+tmp_replit_import/
+*.zip
