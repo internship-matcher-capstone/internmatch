@@ -1,0 +1,501 @@
+internship_id,date_time,profile,company,location,start_date,stipend,duration,apply_by_date,offer,education,skills,perks
+INT1000,2025-01-01,Data Science,TechCorp India,Mumbai,1 August 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Flexible working hours, Work from home"
+INT1001,2025-02-02,Web Development,StartupXYZ,Delhi,Immediately,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS","5 days a week, Free snacks"
+INT1002,2025-03-03,Machine Learning,InnovateTech,Bangalore,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning","Informal dress code, Free snacks"
+INT1003,2025-04-04,Business Development,DataDriven Co,Hyderabad,1 August 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM","Certificate, LOR"
+INT1004,2025-05-05,Marketing,DesignHub,Chennai,15 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics",Flexible working hours
+INT1005,2025-06-06,Content Writing,FinanceFirst,Pune,1 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO",Health Insurance
+INT1006,2025-07-07,Graphic Design,MarketMasters,Kolkata,1 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma",None
+INT1007,2025-08-08,Finance,CodeCraft,Ahmedabad,1 June 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally","Flexible working hours, Work from home"
+INT1008,2025-09-09,Human Resources,CreativeMinds,Jaipur,1 August 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel","5 days a week, Free snacks"
+INT1009,2025-01-10,Operations,GrowthLab,Noida,Immediately,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel","Informal dress code, Free snacks"
+INT1010,2025-02-11,Python Development,AIVentures,Gurgaon,1 August 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API","Certificate, LOR"
+INT1011,2025-03-12,Android Development,WebWizards,Chandigarh,1 August 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java",Flexible working hours
+INT1012,2025-04-13,iOS Development,AppFactory,Indore,Immediately,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode",Health Insurance
+INT1013,2025-05-14,UI/UX Design,CloudNine,Work From Home,Immediately,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch",None
+INT1014,2025-06-15,Digital Marketing,BizBoost,Work From Home,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO","Flexible working hours, Work from home"
+INT1015,2025-07-16,Social Media Marketing,ContentKing,Work From Home,1 July 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation","5 days a week, Free snacks"
+INT1016,2025-08-17,Video Editing,PixelPerfect,Mumbai,Immediately,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Informal dress code, Free snacks"
+INT1017,2025-09-18,React Development,AnalyticsEdge,Delhi,Immediately,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB","Certificate, LOR"
+INT1018,2025-01-19,Full Stack Development,MobileFirst,Bangalore,Immediately,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",Flexible working hours
+INT1019,2025-02-20,Data Analytics,DevStudio,Hyderabad,1 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI",Health Insurance
+INT1020,2025-03-21,Data Science,TechCorp India,Chennai,1 June 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",None
+INT1021,2025-04-22,Web Development,StartupXYZ,Pune,Immediately,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS","Flexible working hours, Work from home"
+INT1022,2025-05-23,Machine Learning,InnovateTech,Kolkata,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning","5 days a week, Free snacks"
+INT1023,2025-06-24,Business Development,DataDriven Co,Ahmedabad,Immediately,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM","Informal dress code, Free snacks"
+INT1024,2025-07-25,Marketing,DesignHub,Jaipur,Immediately,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics","Certificate, LOR"
+INT1025,2025-08-26,Content Writing,FinanceFirst,Noida,1 June 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO",Flexible working hours
+INT1026,2025-09-27,Graphic Design,MarketMasters,Gurgaon,1 August 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma",Health Insurance
+INT1027,2025-01-28,Finance,CodeCraft,Chandigarh,1 August 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally",None
+INT1028,2025-02-01,Human Resources,CreativeMinds,Indore,1 August 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel","Flexible working hours, Work from home"
+INT1029,2025-03-02,Operations,GrowthLab,Work From Home,Immediately,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel","5 days a week, Free snacks"
+INT1030,2025-04-03,Python Development,AIVentures,Work From Home,1 July 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API","Informal dress code, Free snacks"
+INT1031,2025-05-04,Android Development,WebWizards,Work From Home,1 June 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java","Certificate, LOR"
+INT1032,2025-06-05,iOS Development,AppFactory,Mumbai,1 July 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode",Flexible working hours
+INT1033,2025-07-06,UI/UX Design,CloudNine,Delhi,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch",Health Insurance
+INT1034,2025-08-07,Digital Marketing,BizBoost,Bangalore,15 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO",None
+INT1035,2025-09-08,Social Media Marketing,ContentKing,Hyderabad,Immediately,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation","Flexible working hours, Work from home"
+INT1036,2025-01-09,Video Editing,PixelPerfect,Chennai,1 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve","5 days a week, Free snacks"
+INT1037,2025-02-10,React Development,AnalyticsEdge,Pune,1 August 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB","Informal dress code, Free snacks"
+INT1038,2025-03-11,Full Stack Development,MobileFirst,Kolkata,1 July 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Certificate, LOR"
+INT1039,2025-04-12,Data Analytics,DevStudio,Ahmedabad,15 June 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI",Flexible working hours
+INT1040,2025-05-13,Data Science,TechCorp India,Jaipur,15 June 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Health Insurance
+INT1041,2025-06-14,Web Development,StartupXYZ,Noida,1 June 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS",None
+INT1042,2025-07-15,Machine Learning,InnovateTech,Gurgaon,1 June 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning","Flexible working hours, Work from home"
+INT1043,2025-08-16,Business Development,DataDriven Co,Chandigarh,15 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM","5 days a week, Free snacks"
+INT1044,2025-09-17,Marketing,DesignHub,Indore,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics","Informal dress code, Free snacks"
+INT1045,2025-01-18,Content Writing,FinanceFirst,Work From Home,Immediately,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO","Certificate, LOR"
+INT1046,2025-02-19,Graphic Design,MarketMasters,Work From Home,1 July 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma",Flexible working hours
+INT1047,2025-03-20,Finance,CodeCraft,Work From Home,Immediately,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally",Health Insurance
+INT1048,2025-04-21,Human Resources,CreativeMinds,Mumbai,15 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel",None
+INT1049,2025-05-22,Operations,GrowthLab,Delhi,15 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel","Flexible working hours, Work from home"
+INT1050,2025-06-23,Python Development,AIVentures,Bangalore,Immediately,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API","5 days a week, Free snacks"
+INT1051,2025-07-24,Android Development,WebWizards,Hyderabad,15 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java","Informal dress code, Free snacks"
+INT1052,2025-08-25,iOS Development,AppFactory,Chennai,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode","Certificate, LOR"
+INT1053,2025-09-26,UI/UX Design,CloudNine,Pune,1 August 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch",Flexible working hours
+INT1054,2025-01-27,Digital Marketing,BizBoost,Kolkata,1 July 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO",Health Insurance
+INT1055,2025-02-28,Social Media Marketing,ContentKing,Ahmedabad,Immediately,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation",None
+INT1056,2025-03-01,Video Editing,PixelPerfect,Jaipur,Immediately,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Flexible working hours, Work from home"
+INT1057,2025-04-02,React Development,AnalyticsEdge,Noida,1 July 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB","5 days a week, Free snacks"
+INT1058,2025-05-03,Full Stack Development,MobileFirst,Gurgaon,Immediately,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Informal dress code, Free snacks"
+INT1059,2025-06-04,Data Analytics,DevStudio,Chandigarh,Immediately,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI","Certificate, LOR"
+INT1060,2025-07-05,Data Science,TechCorp India,Indore,15 June 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Flexible working hours
+INT1061,2025-08-06,Web Development,StartupXYZ,Work From Home,1 August 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS",Health Insurance
+INT1062,2025-09-07,Machine Learning,InnovateTech,Work From Home,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning",None
+INT1063,2025-01-08,Business Development,DataDriven Co,Work From Home,15 June 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM","Flexible working hours, Work from home"
+INT1064,2025-02-09,Marketing,DesignHub,Mumbai,Immediately,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics","5 days a week, Free snacks"
+INT1065,2025-03-10,Content Writing,FinanceFirst,Delhi,1 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO","Informal dress code, Free snacks"
+INT1066,2025-04-11,Graphic Design,MarketMasters,Bangalore,1 August 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma","Certificate, LOR"
+INT1067,2025-05-12,Finance,CodeCraft,Hyderabad,Immediately,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally",Flexible working hours
+INT1068,2025-06-13,Human Resources,CreativeMinds,Chennai,Immediately,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel",Health Insurance
+INT1069,2025-07-14,Operations,GrowthLab,Pune,1 August 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel",None
+INT1070,2025-08-15,Python Development,AIVentures,Kolkata,1 June 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API","Flexible working hours, Work from home"
+INT1071,2025-09-16,Android Development,WebWizards,Ahmedabad,15 June 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java","5 days a week, Free snacks"
+INT1072,2025-01-17,iOS Development,AppFactory,Jaipur,Immediately,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode","Informal dress code, Free snacks"
+INT1073,2025-02-18,UI/UX Design,CloudNine,Noida,1 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch","Certificate, LOR"
+INT1074,2025-03-19,Digital Marketing,BizBoost,Gurgaon,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO",Flexible working hours
+INT1075,2025-04-20,Social Media Marketing,ContentKing,Chandigarh,1 July 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation",Health Insurance
+INT1076,2025-05-21,Video Editing,PixelPerfect,Indore,15 June 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve",None
+INT1077,2025-06-22,React Development,AnalyticsEdge,Work From Home,1 July 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB","Flexible working hours, Work from home"
+INT1078,2025-07-23,Full Stack Development,MobileFirst,Work From Home,1 August 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","5 days a week, Free snacks"
+INT1079,2025-08-24,Data Analytics,DevStudio,Work From Home,15 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI","Informal dress code, Free snacks"
+INT1080,2025-09-25,Data Science,TechCorp India,Mumbai,1 June 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Certificate, LOR"
+INT1081,2025-01-26,Web Development,StartupXYZ,Delhi,15 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS",Flexible working hours
+INT1082,2025-02-27,Machine Learning,InnovateTech,Bangalore,15 June 2025,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning",Health Insurance
+INT1083,2025-03-28,Business Development,DataDriven Co,Hyderabad,1 June 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM",None
+INT1084,2025-04-01,Marketing,DesignHub,Chennai,1 August 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics","Flexible working hours, Work from home"
+INT1085,2025-05-02,Content Writing,FinanceFirst,Pune,15 June 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO","5 days a week, Free snacks"
+INT1086,2025-06-03,Graphic Design,MarketMasters,Kolkata,1 August 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma","Informal dress code, Free snacks"
+INT1087,2025-07-04,Finance,CodeCraft,Ahmedabad,1 August 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally","Certificate, LOR"
+INT1088,2025-08-05,Human Resources,CreativeMinds,Jaipur,1 August 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel",Flexible working hours
+INT1089,2025-09-06,Operations,GrowthLab,Noida,Immediately,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel",Health Insurance
+INT1090,2025-01-07,Python Development,AIVentures,Gurgaon,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API",None
+INT1091,2025-02-08,Android Development,WebWizards,Chandigarh,1 August 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java","Flexible working hours, Work from home"
+INT1092,2025-03-09,iOS Development,AppFactory,Indore,1 June 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode","5 days a week, Free snacks"
+INT1093,2025-04-10,UI/UX Design,CloudNine,Work From Home,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch","Informal dress code, Free snacks"
+INT1094,2025-05-11,Digital Marketing,BizBoost,Work From Home,1 August 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO","Certificate, LOR"
+INT1095,2025-06-12,Social Media Marketing,ContentKing,Work From Home,1 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation",Flexible working hours
+INT1096,2025-07-13,Video Editing,PixelPerfect,Mumbai,1 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve",Health Insurance
+INT1097,2025-08-14,React Development,AnalyticsEdge,Delhi,1 July 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB",None
+INT1098,2025-09-15,Full Stack Development,MobileFirst,Bangalore,1 July 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Flexible working hours, Work from home"
+INT1099,2025-01-16,Data Analytics,DevStudio,Hyderabad,15 June 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI","5 days a week, Free snacks"
+INT1100,2025-02-17,Data Science,TechCorp India,Chennai,1 August 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Informal dress code, Free snacks"
+INT1101,2025-03-18,Web Development,StartupXYZ,Pune,1 August 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS","Certificate, LOR"
+INT1102,2025-04-19,Machine Learning,InnovateTech,Kolkata,Immediately,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning",Flexible working hours
+INT1103,2025-05-20,Business Development,DataDriven Co,Ahmedabad,1 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM",Health Insurance
+INT1104,2025-06-21,Marketing,DesignHub,Jaipur,1 August 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics",None
+INT1105,2025-07-22,Content Writing,FinanceFirst,Noida,15 June 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO","Flexible working hours, Work from home"
+INT1106,2025-08-23,Graphic Design,MarketMasters,Gurgaon,Immediately,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma","5 days a week, Free snacks"
+INT1107,2025-09-24,Finance,CodeCraft,Chandigarh,1 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally","Informal dress code, Free snacks"
+INT1108,2025-01-25,Human Resources,CreativeMinds,Indore,Immediately,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel","Certificate, LOR"
+INT1109,2025-02-26,Operations,GrowthLab,Work From Home,15 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel",Flexible working hours
+INT1110,2025-03-27,Python Development,AIVentures,Work From Home,1 July 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API",Health Insurance
+INT1111,2025-04-28,Android Development,WebWizards,Work From Home,15 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java",None
+INT1112,2025-05-01,iOS Development,AppFactory,Mumbai,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode","Flexible working hours, Work from home"
+INT1113,2025-06-02,UI/UX Design,CloudNine,Delhi,1 June 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch","5 days a week, Free snacks"
+INT1114,2025-07-03,Digital Marketing,BizBoost,Bangalore,Immediately,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO","Informal dress code, Free snacks"
+INT1115,2025-08-04,Social Media Marketing,ContentKing,Hyderabad,1 August 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation","Certificate, LOR"
+INT1116,2025-09-05,Video Editing,PixelPerfect,Chennai,15 June 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve",Flexible working hours
+INT1117,2025-01-06,React Development,AnalyticsEdge,Pune,1 June 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB",Health Insurance
+INT1118,2025-02-07,Full Stack Development,MobileFirst,Kolkata,1 August 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",None
+INT1119,2025-03-08,Data Analytics,DevStudio,Ahmedabad,1 July 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI","Flexible working hours, Work from home"
+INT1120,2025-04-09,Data Science,TechCorp India,Jaipur,1 July 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis","5 days a week, Free snacks"
+INT1121,2025-05-10,Web Development,StartupXYZ,Noida,1 August 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS","Informal dress code, Free snacks"
+INT1122,2025-06-11,Machine Learning,InnovateTech,Gurgaon,1 July 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning","Certificate, LOR"
+INT1123,2025-07-12,Business Development,DataDriven Co,Chandigarh,1 June 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM",Flexible working hours
+INT1124,2025-08-13,Marketing,DesignHub,Indore,15 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics",Health Insurance
+INT1125,2025-09-14,Content Writing,FinanceFirst,Work From Home,1 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO",None
+INT1126,2025-01-15,Graphic Design,MarketMasters,Work From Home,1 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma","Flexible working hours, Work from home"
+INT1127,2025-02-16,Finance,CodeCraft,Work From Home,1 August 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally","5 days a week, Free snacks"
+INT1128,2025-03-17,Human Resources,CreativeMinds,Mumbai,Immediately,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel","Informal dress code, Free snacks"
+INT1129,2025-04-18,Operations,GrowthLab,Delhi,Immediately,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel","Certificate, LOR"
+INT1130,2025-05-19,Python Development,AIVentures,Bangalore,15 June 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API",Flexible working hours
+INT1131,2025-06-20,Android Development,WebWizards,Hyderabad,1 August 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java",Health Insurance
+INT1132,2025-07-21,iOS Development,AppFactory,Chennai,Immediately,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode",None
+INT1133,2025-08-22,UI/UX Design,CloudNine,Pune,1 July 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch","Flexible working hours, Work from home"
+INT1134,2025-09-23,Digital Marketing,BizBoost,Kolkata,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO","5 days a week, Free snacks"
+INT1135,2025-01-24,Social Media Marketing,ContentKing,Ahmedabad,1 July 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation","Informal dress code, Free snacks"
+INT1136,2025-02-25,Video Editing,PixelPerfect,Jaipur,15 June 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Certificate, LOR"
+INT1137,2025-03-26,React Development,AnalyticsEdge,Noida,1 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB",Flexible working hours
+INT1138,2025-04-27,Full Stack Development,MobileFirst,Gurgaon,1 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",Health Insurance
+INT1139,2025-05-28,Data Analytics,DevStudio,Chandigarh,Immediately,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI",None
+INT1140,2025-06-01,Data Science,TechCorp India,Indore,1 July 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Flexible working hours, Work from home"
+INT1141,2025-07-02,Web Development,StartupXYZ,Work From Home,Immediately,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS","5 days a week, Free snacks"
+INT1142,2025-08-03,Machine Learning,InnovateTech,Work From Home,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning","Informal dress code, Free snacks"
+INT1143,2025-09-04,Business Development,DataDriven Co,Work From Home,Immediately,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM","Certificate, LOR"
+INT1144,2025-01-05,Marketing,DesignHub,Mumbai,1 June 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics",Flexible working hours
+INT1145,2025-02-06,Content Writing,FinanceFirst,Delhi,1 August 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO",Health Insurance
+INT1146,2025-03-07,Graphic Design,MarketMasters,Bangalore,1 June 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma",None
+INT1147,2025-04-08,Finance,CodeCraft,Hyderabad,1 August 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally","Flexible working hours, Work from home"
+INT1148,2025-05-09,Human Resources,CreativeMinds,Chennai,1 July 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel","5 days a week, Free snacks"
+INT1149,2025-06-10,Operations,GrowthLab,Pune,Immediately,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel","Informal dress code, Free snacks"
+INT1150,2025-07-11,Python Development,AIVentures,Kolkata,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API","Certificate, LOR"
+INT1151,2025-08-12,Android Development,WebWizards,Ahmedabad,1 July 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java",Flexible working hours
+INT1152,2025-09-13,iOS Development,AppFactory,Jaipur,1 July 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode",Health Insurance
+INT1153,2025-01-14,UI/UX Design,CloudNine,Noida,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch",None
+INT1154,2025-02-15,Digital Marketing,BizBoost,Gurgaon,1 July 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO","Flexible working hours, Work from home"
+INT1155,2025-03-16,Social Media Marketing,ContentKing,Chandigarh,Immediately,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation","5 days a week, Free snacks"
+INT1156,2025-04-17,Video Editing,PixelPerfect,Indore,15 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Informal dress code, Free snacks"
+INT1157,2025-05-18,React Development,AnalyticsEdge,Work From Home,Immediately,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB","Certificate, LOR"
+INT1158,2025-06-19,Full Stack Development,MobileFirst,Work From Home,Immediately,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",Flexible working hours
+INT1159,2025-07-20,Data Analytics,DevStudio,Work From Home,1 August 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI",Health Insurance
+INT1160,2025-08-21,Data Science,TechCorp India,Mumbai,1 August 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",None
+INT1161,2025-09-22,Web Development,StartupXYZ,Delhi,Immediately,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS","Flexible working hours, Work from home"
+INT1162,2025-01-23,Machine Learning,InnovateTech,Bangalore,1 August 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning","5 days a week, Free snacks"
+INT1163,2025-02-24,Business Development,DataDriven Co,Hyderabad,Immediately,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM","Informal dress code, Free snacks"
+INT1164,2025-03-25,Marketing,DesignHub,Chennai,15 June 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics","Certificate, LOR"
+INT1165,2025-04-26,Content Writing,FinanceFirst,Pune,1 August 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO",Flexible working hours
+INT1166,2025-05-27,Graphic Design,MarketMasters,Kolkata,15 June 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma",Health Insurance
+INT1167,2025-06-28,Finance,CodeCraft,Ahmedabad,Immediately,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally",None
+INT1168,2025-07-01,Human Resources,CreativeMinds,Jaipur,15 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel","Flexible working hours, Work from home"
+INT1169,2025-08-02,Operations,GrowthLab,Noida,1 July 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel","5 days a week, Free snacks"
+INT1170,2025-09-03,Python Development,AIVentures,Gurgaon,1 June 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API","Informal dress code, Free snacks"
+INT1171,2025-01-04,Android Development,WebWizards,Chandigarh,1 July 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java","Certificate, LOR"
+INT1172,2025-02-05,iOS Development,AppFactory,Indore,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode",Flexible working hours
+INT1173,2025-03-06,UI/UX Design,CloudNine,Work From Home,1 August 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch",Health Insurance
+INT1174,2025-04-07,Digital Marketing,BizBoost,Work From Home,1 August 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO",None
+INT1175,2025-05-08,Social Media Marketing,ContentKing,Work From Home,15 June 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation","Flexible working hours, Work from home"
+INT1176,2025-06-09,Video Editing,PixelPerfect,Mumbai,Immediately,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","5 days a week, Free snacks"
+INT1177,2025-07-10,React Development,AnalyticsEdge,Delhi,1 June 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB","Informal dress code, Free snacks"
+INT1178,2025-08-11,Full Stack Development,MobileFirst,Bangalore,Immediately,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Certificate, LOR"
+INT1179,2025-09-12,Data Analytics,DevStudio,Hyderabad,Immediately,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI",Flexible working hours
+INT1180,2025-01-13,Data Science,TechCorp India,Chennai,1 August 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Health Insurance
+INT1181,2025-02-14,Web Development,StartupXYZ,Pune,15 June 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS",None
+INT1182,2025-03-15,Machine Learning,InnovateTech,Kolkata,1 August 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning","Flexible working hours, Work from home"
+INT1183,2025-04-16,Business Development,DataDriven Co,Ahmedabad,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM","5 days a week, Free snacks"
+INT1184,2025-05-17,Marketing,DesignHub,Jaipur,Immediately,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics","Informal dress code, Free snacks"
+INT1185,2025-06-18,Content Writing,FinanceFirst,Noida,1 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO","Certificate, LOR"
+INT1186,2025-07-19,Graphic Design,MarketMasters,Gurgaon,1 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma",Flexible working hours
+INT1187,2025-08-20,Finance,CodeCraft,Chandigarh,15 June 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally",Health Insurance
+INT1188,2025-09-21,Human Resources,CreativeMinds,Indore,1 June 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel",None
+INT1189,2025-01-22,Operations,GrowthLab,Work From Home,Immediately,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel","Flexible working hours, Work from home"
+INT1190,2025-02-23,Python Development,AIVentures,Work From Home,Immediately,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API","5 days a week, Free snacks"
+INT1191,2025-03-24,Android Development,WebWizards,Work From Home,Immediately,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java","Informal dress code, Free snacks"
+INT1192,2025-04-25,iOS Development,AppFactory,Mumbai,Immediately,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode","Certificate, LOR"
+INT1193,2025-05-26,UI/UX Design,CloudNine,Delhi,15 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch",Flexible working hours
+INT1194,2025-06-27,Digital Marketing,BizBoost,Bangalore,1 July 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO",Health Insurance
+INT1195,2025-07-28,Social Media Marketing,ContentKing,Hyderabad,Immediately,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation",None
+INT1196,2025-08-01,Video Editing,PixelPerfect,Chennai,Immediately,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Flexible working hours, Work from home"
+INT1197,2025-09-02,React Development,AnalyticsEdge,Pune,15 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB","5 days a week, Free snacks"
+INT1198,2025-01-03,Full Stack Development,MobileFirst,Kolkata,15 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Informal dress code, Free snacks"
+INT1199,2025-02-04,Data Analytics,DevStudio,Ahmedabad,1 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI","Certificate, LOR"
+INT1200,2025-03-05,Data Science,TechCorp India,Jaipur,Immediately,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Flexible working hours
+INT1201,2025-04-06,Web Development,StartupXYZ,Noida,1 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS",Health Insurance
+INT1202,2025-05-07,Machine Learning,InnovateTech,Gurgaon,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning",None
+INT1203,2025-06-08,Business Development,DataDriven Co,Chandigarh,Immediately,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM","Flexible working hours, Work from home"
+INT1204,2025-07-09,Marketing,DesignHub,Indore,Immediately,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics","5 days a week, Free snacks"
+INT1205,2025-08-10,Content Writing,FinanceFirst,Work From Home,1 August 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO","Informal dress code, Free snacks"
+INT1206,2025-09-11,Graphic Design,MarketMasters,Work From Home,1 July 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma","Certificate, LOR"
+INT1207,2025-01-12,Finance,CodeCraft,Work From Home,Immediately,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally",Flexible working hours
+INT1208,2025-02-13,Human Resources,CreativeMinds,Mumbai,Immediately,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel",Health Insurance
+INT1209,2025-03-14,Operations,GrowthLab,Delhi,1 June 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel",None
+INT1210,2025-04-15,Python Development,AIVentures,Bangalore,1 June 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API","Flexible working hours, Work from home"
+INT1211,2025-05-16,Android Development,WebWizards,Hyderabad,1 August 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java","5 days a week, Free snacks"
+INT1212,2025-06-17,iOS Development,AppFactory,Chennai,1 July 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode","Informal dress code, Free snacks"
+INT1213,2025-07-18,UI/UX Design,CloudNine,Pune,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch","Certificate, LOR"
+INT1214,2025-08-19,Digital Marketing,BizBoost,Kolkata,1 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO",Flexible working hours
+INT1215,2025-09-20,Social Media Marketing,ContentKing,Ahmedabad,15 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation",Health Insurance
+INT1216,2025-01-21,Video Editing,PixelPerfect,Jaipur,Immediately,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve",None
+INT1217,2025-02-22,React Development,AnalyticsEdge,Noida,Immediately,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB","Flexible working hours, Work from home"
+INT1218,2025-03-23,Full Stack Development,MobileFirst,Gurgaon,1 July 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","5 days a week, Free snacks"
+INT1219,2025-04-24,Data Analytics,DevStudio,Chandigarh,1 June 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI","Informal dress code, Free snacks"
+INT1220,2025-05-25,Data Science,TechCorp India,Indore,Immediately,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Certificate, LOR"
+INT1221,2025-06-26,Web Development,StartupXYZ,Work From Home,1 August 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS",Flexible working hours
+INT1222,2025-07-27,Machine Learning,InnovateTech,Work From Home,1 August 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning",Health Insurance
+INT1223,2025-08-28,Business Development,DataDriven Co,Work From Home,1 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM",None
+INT1224,2025-09-01,Marketing,DesignHub,Mumbai,1 August 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics","Flexible working hours, Work from home"
+INT1225,2025-01-02,Content Writing,FinanceFirst,Delhi,15 June 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO","5 days a week, Free snacks"
+INT1226,2025-02-03,Graphic Design,MarketMasters,Bangalore,1 July 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma","Informal dress code, Free snacks"
+INT1227,2025-03-04,Finance,CodeCraft,Hyderabad,1 August 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally","Certificate, LOR"
+INT1228,2025-04-05,Human Resources,CreativeMinds,Chennai,1 August 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel",Flexible working hours
+INT1229,2025-05-06,Operations,GrowthLab,Pune,15 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel",Health Insurance
+INT1230,2025-06-07,Python Development,AIVentures,Kolkata,1 July 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API",None
+INT1231,2025-07-08,Android Development,WebWizards,Ahmedabad,Immediately,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java","Flexible working hours, Work from home"
+INT1232,2025-08-09,iOS Development,AppFactory,Jaipur,1 July 2025,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode","5 days a week, Free snacks"
+INT1233,2025-09-10,UI/UX Design,CloudNine,Noida,Immediately,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch","Informal dress code, Free snacks"
+INT1234,2025-01-11,Digital Marketing,BizBoost,Gurgaon,1 June 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO","Certificate, LOR"
+INT1235,2025-02-12,Social Media Marketing,ContentKing,Chandigarh,1 June 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation",Flexible working hours
+INT1236,2025-03-13,Video Editing,PixelPerfect,Indore,Immediately,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve",Health Insurance
+INT1237,2025-04-14,React Development,AnalyticsEdge,Work From Home,15 June 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB",None
+INT1238,2025-05-15,Full Stack Development,MobileFirst,Work From Home,Immediately,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Flexible working hours, Work from home"
+INT1239,2025-06-16,Data Analytics,DevStudio,Work From Home,Immediately,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI","5 days a week, Free snacks"
+INT1240,2025-07-17,Data Science,TechCorp India,Mumbai,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Informal dress code, Free snacks"
+INT1241,2025-08-18,Web Development,StartupXYZ,Delhi,1 June 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS","Certificate, LOR"
+INT1242,2025-09-19,Machine Learning,InnovateTech,Bangalore,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning",Flexible working hours
+INT1243,2025-01-20,Business Development,DataDriven Co,Hyderabad,1 June 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM",Health Insurance
+INT1244,2025-02-21,Marketing,DesignHub,Chennai,Immediately,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics",None
+INT1245,2025-03-22,Content Writing,FinanceFirst,Pune,Immediately,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO","Flexible working hours, Work from home"
+INT1246,2025-04-23,Graphic Design,MarketMasters,Kolkata,1 August 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma","5 days a week, Free snacks"
+INT1247,2025-05-24,Finance,CodeCraft,Ahmedabad,1 August 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally","Informal dress code, Free snacks"
+INT1248,2025-06-25,Human Resources,CreativeMinds,Jaipur,Immediately,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel","Certificate, LOR"
+INT1249,2025-07-26,Operations,GrowthLab,Noida,1 June 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel",Flexible working hours
+INT1250,2025-08-27,Python Development,AIVentures,Gurgaon,Immediately,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API",Health Insurance
+INT1251,2025-09-28,Android Development,WebWizards,Chandigarh,Immediately,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java",None
+INT1252,2025-01-01,iOS Development,AppFactory,Indore,15 June 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode","Flexible working hours, Work from home"
+INT1253,2025-02-02,UI/UX Design,CloudNine,Work From Home,Immediately,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch","5 days a week, Free snacks"
+INT1254,2025-03-03,Digital Marketing,BizBoost,Work From Home,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO","Informal dress code, Free snacks"
+INT1255,2025-04-04,Social Media Marketing,ContentKing,Work From Home,1 June 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation","Certificate, LOR"
+INT1256,2025-05-05,Video Editing,PixelPerfect,Mumbai,15 June 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve",Flexible working hours
+INT1257,2025-06-06,React Development,AnalyticsEdge,Delhi,1 August 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB",Health Insurance
+INT1258,2025-07-07,Full Stack Development,MobileFirst,Bangalore,1 July 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",None
+INT1259,2025-08-08,Data Analytics,DevStudio,Hyderabad,1 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI","Flexible working hours, Work from home"
+INT1260,2025-09-09,Data Science,TechCorp India,Chennai,Immediately,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","5 days a week, Free snacks"
+INT1261,2025-01-10,Web Development,StartupXYZ,Pune,1 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS","Informal dress code, Free snacks"
+INT1262,2025-02-11,Machine Learning,InnovateTech,Kolkata,1 August 2025,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning","Certificate, LOR"
+INT1263,2025-03-12,Business Development,DataDriven Co,Ahmedabad,Immediately,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM",Flexible working hours
+INT1264,2025-04-13,Marketing,DesignHub,Jaipur,Immediately,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics",Health Insurance
+INT1265,2025-05-14,Content Writing,FinanceFirst,Noida,1 July 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO",None
+INT1266,2025-06-15,Graphic Design,MarketMasters,Gurgaon,1 June 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma","Flexible working hours, Work from home"
+INT1267,2025-07-16,Finance,CodeCraft,Chandigarh,1 July 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally","5 days a week, Free snacks"
+INT1268,2025-08-17,Human Resources,CreativeMinds,Indore,1 July 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel","Informal dress code, Free snacks"
+INT1269,2025-09-18,Operations,GrowthLab,Work From Home,1 June 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel","Certificate, LOR"
+INT1270,2025-01-19,Python Development,AIVentures,Work From Home,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API",Flexible working hours
+INT1271,2025-02-20,Android Development,WebWizards,Work From Home,Immediately,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java",Health Insurance
+INT1272,2025-03-21,iOS Development,AppFactory,Mumbai,1 August 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode",None
+INT1273,2025-04-22,UI/UX Design,CloudNine,Delhi,1 July 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch","Flexible working hours, Work from home"
+INT1274,2025-05-23,Digital Marketing,BizBoost,Bangalore,15 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO","5 days a week, Free snacks"
+INT1275,2025-06-24,Social Media Marketing,ContentKing,Hyderabad,1 July 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation","Informal dress code, Free snacks"
+INT1276,2025-07-25,Video Editing,PixelPerfect,Chennai,1 July 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Certificate, LOR"
+INT1277,2025-08-26,React Development,AnalyticsEdge,Pune,1 July 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB",Flexible working hours
+INT1278,2025-09-27,Full Stack Development,MobileFirst,Kolkata,1 August 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",Health Insurance
+INT1279,2025-01-28,Data Analytics,DevStudio,Ahmedabad,Immediately,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI",None
+INT1280,2025-02-01,Data Science,TechCorp India,Jaipur,1 August 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Flexible working hours, Work from home"
+INT1281,2025-03-02,Web Development,StartupXYZ,Noida,1 August 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS","5 days a week, Free snacks"
+INT1282,2025-04-03,Machine Learning,InnovateTech,Gurgaon,1 August 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning","Informal dress code, Free snacks"
+INT1283,2025-05-04,Business Development,DataDriven Co,Chandigarh,Immediately,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM","Certificate, LOR"
+INT1284,2025-06-05,Marketing,DesignHub,Indore,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics",Flexible working hours
+INT1285,2025-07-06,Content Writing,FinanceFirst,Work From Home,1 July 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO",Health Insurance
+INT1286,2025-08-07,Graphic Design,MarketMasters,Work From Home,1 August 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma",None
+INT1287,2025-09-08,Finance,CodeCraft,Work From Home,15 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally","Flexible working hours, Work from home"
+INT1288,2025-01-09,Human Resources,CreativeMinds,Mumbai,Immediately,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel","5 days a week, Free snacks"
+INT1289,2025-02-10,Operations,GrowthLab,Delhi,1 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel","Informal dress code, Free snacks"
+INT1290,2025-03-11,Python Development,AIVentures,Bangalore,1 June 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API","Certificate, LOR"
+INT1291,2025-04-12,Android Development,WebWizards,Hyderabad,1 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java",Flexible working hours
+INT1292,2025-05-13,iOS Development,AppFactory,Chennai,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode",Health Insurance
+INT1293,2025-06-14,UI/UX Design,CloudNine,Pune,1 July 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch",None
+INT1294,2025-07-15,Digital Marketing,BizBoost,Kolkata,1 June 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO","Flexible working hours, Work from home"
+INT1295,2025-08-16,Social Media Marketing,ContentKing,Ahmedabad,1 July 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation","5 days a week, Free snacks"
+INT1296,2025-09-17,Video Editing,PixelPerfect,Jaipur,1 June 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Informal dress code, Free snacks"
+INT1297,2025-01-18,React Development,AnalyticsEdge,Noida,15 June 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB","Certificate, LOR"
+INT1298,2025-02-19,Full Stack Development,MobileFirst,Gurgaon,1 July 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",Flexible working hours
+INT1299,2025-03-20,Data Analytics,DevStudio,Chandigarh,1 June 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI",Health Insurance
+INT1300,2025-04-21,Data Science,TechCorp India,Indore,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis",None
+INT1301,2025-05-22,Web Development,StartupXYZ,Work From Home,1 July 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS","Flexible working hours, Work from home"
+INT1302,2025-06-23,Machine Learning,InnovateTech,Work From Home,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning","5 days a week, Free snacks"
+INT1303,2025-07-24,Business Development,DataDriven Co,Work From Home,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM","Informal dress code, Free snacks"
+INT1304,2025-08-25,Marketing,DesignHub,Mumbai,Immediately,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics","Certificate, LOR"
+INT1305,2025-09-26,Content Writing,FinanceFirst,Delhi,1 August 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO",Flexible working hours
+INT1306,2025-01-27,Graphic Design,MarketMasters,Bangalore,Immediately,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma",Health Insurance
+INT1307,2025-02-28,Finance,CodeCraft,Hyderabad,Immediately,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally",None
+INT1308,2025-03-01,Human Resources,CreativeMinds,Chennai,Immediately,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel","Flexible working hours, Work from home"
+INT1309,2025-04-02,Operations,GrowthLab,Pune,1 June 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel","5 days a week, Free snacks"
+INT1310,2025-05-03,Python Development,AIVentures,Kolkata,1 June 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API","Informal dress code, Free snacks"
+INT1311,2025-06-04,Android Development,WebWizards,Ahmedabad,1 July 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java","Certificate, LOR"
+INT1312,2025-07-05,iOS Development,AppFactory,Jaipur,1 July 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode",Flexible working hours
+INT1313,2025-08-06,UI/UX Design,CloudNine,Noida,1 July 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch",Health Insurance
+INT1314,2025-09-07,Digital Marketing,BizBoost,Gurgaon,1 June 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO",None
+INT1315,2025-01-08,Social Media Marketing,ContentKing,Chandigarh,1 July 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation","Flexible working hours, Work from home"
+INT1316,2025-02-09,Video Editing,PixelPerfect,Indore,Immediately,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","5 days a week, Free snacks"
+INT1317,2025-03-10,React Development,AnalyticsEdge,Work From Home,1 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB","Informal dress code, Free snacks"
+INT1318,2025-04-11,Full Stack Development,MobileFirst,Work From Home,1 July 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Certificate, LOR"
+INT1319,2025-05-12,Data Analytics,DevStudio,Work From Home,Immediately,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI",Flexible working hours
+INT1320,2025-06-13,Data Science,TechCorp India,Mumbai,1 July 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Health Insurance
+INT1321,2025-07-14,Web Development,StartupXYZ,Delhi,15 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS",None
+INT1322,2025-08-15,Machine Learning,InnovateTech,Bangalore,1 July 2025,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning","Flexible working hours, Work from home"
+INT1323,2025-09-16,Business Development,DataDriven Co,Hyderabad,15 June 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM","5 days a week, Free snacks"
+INT1324,2025-01-17,Marketing,DesignHub,Chennai,1 July 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics","Informal dress code, Free snacks"
+INT1325,2025-02-18,Content Writing,FinanceFirst,Pune,1 August 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO","Certificate, LOR"
+INT1326,2025-03-19,Graphic Design,MarketMasters,Kolkata,1 August 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma",Flexible working hours
+INT1327,2025-04-20,Finance,CodeCraft,Ahmedabad,Immediately,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally",Health Insurance
+INT1328,2025-05-21,Human Resources,CreativeMinds,Jaipur,1 August 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel",None
+INT1329,2025-06-22,Operations,GrowthLab,Noida,1 August 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel","Flexible working hours, Work from home"
+INT1330,2025-07-23,Python Development,AIVentures,Gurgaon,1 July 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API","5 days a week, Free snacks"
+INT1331,2025-08-24,Android Development,WebWizards,Chandigarh,1 June 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java","Informal dress code, Free snacks"
+INT1332,2025-09-25,iOS Development,AppFactory,Indore,1 June 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode","Certificate, LOR"
+INT1333,2025-01-26,UI/UX Design,CloudNine,Work From Home,15 June 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch",Flexible working hours
+INT1334,2025-02-27,Digital Marketing,BizBoost,Work From Home,1 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO",Health Insurance
+INT1335,2025-03-28,Social Media Marketing,ContentKing,Work From Home,Immediately,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation",None
+INT1336,2025-04-01,Video Editing,PixelPerfect,Mumbai,Immediately,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Flexible working hours, Work from home"
+INT1337,2025-05-02,React Development,AnalyticsEdge,Delhi,1 August 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB","5 days a week, Free snacks"
+INT1338,2025-06-03,Full Stack Development,MobileFirst,Bangalore,Immediately,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Informal dress code, Free snacks"
+INT1339,2025-07-04,Data Analytics,DevStudio,Hyderabad,Immediately,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI","Certificate, LOR"
+INT1340,2025-08-05,Data Science,TechCorp India,Chennai,1 August 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Flexible working hours
+INT1341,2025-09-06,Web Development,StartupXYZ,Pune,15 June 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS",Health Insurance
+INT1342,2025-01-07,Machine Learning,InnovateTech,Kolkata,Immediately,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning",None
+INT1343,2025-02-08,Business Development,DataDriven Co,Ahmedabad,Immediately,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM","Flexible working hours, Work from home"
+INT1344,2025-03-09,Marketing,DesignHub,Jaipur,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics","5 days a week, Free snacks"
+INT1345,2025-04-10,Content Writing,FinanceFirst,Noida,1 July 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO","Informal dress code, Free snacks"
+INT1346,2025-05-11,Graphic Design,MarketMasters,Gurgaon,Immediately,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma","Certificate, LOR"
+INT1347,2025-06-12,Finance,CodeCraft,Chandigarh,Immediately,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally",Flexible working hours
+INT1348,2025-07-13,Human Resources,CreativeMinds,Indore,1 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel",Health Insurance
+INT1349,2025-08-14,Operations,GrowthLab,Work From Home,Immediately,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel",None
+INT1350,2025-09-15,Python Development,AIVentures,Work From Home,Immediately,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API","Flexible working hours, Work from home"
+INT1351,2025-01-16,Android Development,WebWizards,Work From Home,Immediately,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java","5 days a week, Free snacks"
+INT1352,2025-02-17,iOS Development,AppFactory,Mumbai,1 June 2025,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode","Informal dress code, Free snacks"
+INT1353,2025-03-18,UI/UX Design,CloudNine,Delhi,Immediately,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch","Certificate, LOR"
+INT1354,2025-04-19,Digital Marketing,BizBoost,Bangalore,Immediately,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO",Flexible working hours
+INT1355,2025-05-20,Social Media Marketing,ContentKing,Hyderabad,Immediately,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation",Health Insurance
+INT1356,2025-06-21,Video Editing,PixelPerfect,Chennai,1 August 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve",None
+INT1357,2025-07-22,React Development,AnalyticsEdge,Pune,1 June 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB","Flexible working hours, Work from home"
+INT1358,2025-08-23,Full Stack Development,MobileFirst,Kolkata,1 July 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","5 days a week, Free snacks"
+INT1359,2025-09-24,Data Analytics,DevStudio,Ahmedabad,Immediately,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI","Informal dress code, Free snacks"
+INT1360,2025-01-25,Data Science,TechCorp India,Jaipur,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Certificate, LOR"
+INT1361,2025-02-26,Web Development,StartupXYZ,Noida,1 June 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS",Flexible working hours
+INT1362,2025-03-27,Machine Learning,InnovateTech,Gurgaon,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning",Health Insurance
+INT1363,2025-04-28,Business Development,DataDriven Co,Chandigarh,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM",None
+INT1364,2025-05-01,Marketing,DesignHub,Indore,Immediately,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics","Flexible working hours, Work from home"
+INT1365,2025-06-02,Content Writing,FinanceFirst,Work From Home,Immediately,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO","5 days a week, Free snacks"
+INT1366,2025-07-03,Graphic Design,MarketMasters,Work From Home,Immediately,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma","Informal dress code, Free snacks"
+INT1367,2025-08-04,Finance,CodeCraft,Work From Home,1 July 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally","Certificate, LOR"
+INT1368,2025-09-05,Human Resources,CreativeMinds,Mumbai,1 August 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel",Flexible working hours
+INT1369,2025-01-06,Operations,GrowthLab,Delhi,Immediately,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel",Health Insurance
+INT1370,2025-02-07,Python Development,AIVentures,Bangalore,Immediately,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API",None
+INT1371,2025-03-08,Android Development,WebWizards,Hyderabad,Immediately,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java","Flexible working hours, Work from home"
+INT1372,2025-04-09,iOS Development,AppFactory,Chennai,15 June 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode","5 days a week, Free snacks"
+INT1373,2025-05-10,UI/UX Design,CloudNine,Pune,15 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch","Informal dress code, Free snacks"
+INT1374,2025-06-11,Digital Marketing,BizBoost,Kolkata,1 June 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO","Certificate, LOR"
+INT1375,2025-07-12,Social Media Marketing,ContentKing,Ahmedabad,1 August 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation",Flexible working hours
+INT1376,2025-08-13,Video Editing,PixelPerfect,Jaipur,1 August 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve",Health Insurance
+INT1377,2025-09-14,React Development,AnalyticsEdge,Noida,15 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB",None
+INT1378,2025-01-15,Full Stack Development,MobileFirst,Gurgaon,1 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Flexible working hours, Work from home"
+INT1379,2025-02-16,Data Analytics,DevStudio,Chandigarh,15 June 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI","5 days a week, Free snacks"
+INT1380,2025-03-17,Data Science,TechCorp India,Indore,1 July 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Informal dress code, Free snacks"
+INT1381,2025-04-18,Web Development,StartupXYZ,Work From Home,1 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS","Certificate, LOR"
+INT1382,2025-05-19,Machine Learning,InnovateTech,Work From Home,1 August 2025,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning",Flexible working hours
+INT1383,2025-06-20,Business Development,DataDriven Co,Work From Home,1 August 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM",Health Insurance
+INT1384,2025-07-21,Marketing,DesignHub,Mumbai,15 June 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics",None
+INT1385,2025-08-22,Content Writing,FinanceFirst,Delhi,1 July 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO","Flexible working hours, Work from home"
+INT1386,2025-09-23,Graphic Design,MarketMasters,Bangalore,15 June 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma","5 days a week, Free snacks"
+INT1387,2025-01-24,Finance,CodeCraft,Hyderabad,Immediately,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally","Informal dress code, Free snacks"
+INT1388,2025-02-25,Human Resources,CreativeMinds,Chennai,Immediately,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel","Certificate, LOR"
+INT1389,2025-03-26,Operations,GrowthLab,Pune,1 July 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel",Flexible working hours
+INT1390,2025-04-27,Python Development,AIVentures,Kolkata,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API",Health Insurance
+INT1391,2025-05-28,Android Development,WebWizards,Ahmedabad,Immediately,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java",None
+INT1392,2025-06-01,iOS Development,AppFactory,Jaipur,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode","Flexible working hours, Work from home"
+INT1393,2025-07-02,UI/UX Design,CloudNine,Noida,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch","5 days a week, Free snacks"
+INT1394,2025-08-03,Digital Marketing,BizBoost,Gurgaon,Immediately,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO","Informal dress code, Free snacks"
+INT1395,2025-09-04,Social Media Marketing,ContentKing,Chandigarh,1 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation","Certificate, LOR"
+INT1396,2025-01-05,Video Editing,PixelPerfect,Indore,Immediately,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve",Flexible working hours
+INT1397,2025-02-06,React Development,AnalyticsEdge,Work From Home,15 June 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB",Health Insurance
+INT1398,2025-03-07,Full Stack Development,MobileFirst,Work From Home,1 June 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",None
+INT1399,2025-04-08,Data Analytics,DevStudio,Work From Home,15 June 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI","Flexible working hours, Work from home"
+INT1400,2025-05-09,Data Science,TechCorp India,Mumbai,Immediately,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis","5 days a week, Free snacks"
+INT1401,2025-06-10,Web Development,StartupXYZ,Delhi,1 June 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS","Informal dress code, Free snacks"
+INT1402,2025-07-11,Machine Learning,InnovateTech,Bangalore,15 June 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning","Certificate, LOR"
+INT1403,2025-08-12,Business Development,DataDriven Co,Hyderabad,15 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM",Flexible working hours
+INT1404,2025-09-13,Marketing,DesignHub,Chennai,1 June 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics",Health Insurance
+INT1405,2025-01-14,Content Writing,FinanceFirst,Pune,1 July 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO",None
+INT1406,2025-02-15,Graphic Design,MarketMasters,Kolkata,Immediately,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma","Flexible working hours, Work from home"
+INT1407,2025-03-16,Finance,CodeCraft,Ahmedabad,1 August 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally","5 days a week, Free snacks"
+INT1408,2025-04-17,Human Resources,CreativeMinds,Jaipur,15 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel","Informal dress code, Free snacks"
+INT1409,2025-05-18,Operations,GrowthLab,Noida,Immediately,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel","Certificate, LOR"
+INT1410,2025-06-19,Python Development,AIVentures,Gurgaon,1 August 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API",Flexible working hours
+INT1411,2025-07-20,Android Development,WebWizards,Chandigarh,Immediately,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java",Health Insurance
+INT1412,2025-08-21,iOS Development,AppFactory,Indore,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode",None
+INT1413,2025-09-22,UI/UX Design,CloudNine,Work From Home,1 August 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch","Flexible working hours, Work from home"
+INT1414,2025-01-23,Digital Marketing,BizBoost,Work From Home,Immediately,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO","5 days a week, Free snacks"
+INT1415,2025-02-24,Social Media Marketing,ContentKing,Work From Home,15 June 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation","Informal dress code, Free snacks"
+INT1416,2025-03-25,Video Editing,PixelPerfect,Mumbai,1 August 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Certificate, LOR"
+INT1417,2025-04-26,React Development,AnalyticsEdge,Delhi,Immediately,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB",Flexible working hours
+INT1418,2025-05-27,Full Stack Development,MobileFirst,Bangalore,1 June 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",Health Insurance
+INT1419,2025-06-28,Data Analytics,DevStudio,Hyderabad,15 June 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI",None
+INT1420,2025-07-01,Data Science,TechCorp India,Chennai,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis","Flexible working hours, Work from home"
+INT1421,2025-08-02,Web Development,StartupXYZ,Pune,Immediately,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS","5 days a week, Free snacks"
+INT1422,2025-09-03,Machine Learning,InnovateTech,Kolkata,1 August 2025,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning","Informal dress code, Free snacks"
+INT1423,2025-01-04,Business Development,DataDriven Co,Ahmedabad,Immediately,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM","Certificate, LOR"
+INT1424,2025-02-05,Marketing,DesignHub,Jaipur,1 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics",Flexible working hours
+INT1425,2025-03-06,Content Writing,FinanceFirst,Noida,15 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO",Health Insurance
+INT1426,2025-04-07,Graphic Design,MarketMasters,Gurgaon,15 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma",None
+INT1427,2025-05-08,Finance,CodeCraft,Chandigarh,Immediately,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally","Flexible working hours, Work from home"
+INT1428,2025-06-09,Human Resources,CreativeMinds,Indore,1 June 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel","5 days a week, Free snacks"
+INT1429,2025-07-10,Operations,GrowthLab,Work From Home,1 August 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel","Informal dress code, Free snacks"
+INT1430,2025-08-11,Python Development,AIVentures,Work From Home,15 June 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API","Certificate, LOR"
+INT1431,2025-09-12,Android Development,WebWizards,Work From Home,1 June 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java",Flexible working hours
+INT1432,2025-01-13,iOS Development,AppFactory,Mumbai,1 August 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode",Health Insurance
+INT1433,2025-02-14,UI/UX Design,CloudNine,Delhi,1 August 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch",None
+INT1434,2025-03-15,Digital Marketing,BizBoost,Bangalore,15 June 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO","Flexible working hours, Work from home"
+INT1435,2025-04-16,Social Media Marketing,ContentKing,Hyderabad,Immediately,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation","5 days a week, Free snacks"
+INT1436,2025-05-17,Video Editing,PixelPerfect,Chennai,1 July 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Informal dress code, Free snacks"
+INT1437,2025-06-18,React Development,AnalyticsEdge,Pune,15 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB","Certificate, LOR"
+INT1438,2025-07-19,Full Stack Development,MobileFirst,Kolkata,Immediately,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL",Flexible working hours
+INT1439,2025-08-20,Data Analytics,DevStudio,Ahmedabad,Immediately,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI",Health Insurance
+INT1440,2025-09-21,Data Science,TechCorp India,Jaipur,1 August 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",None
+INT1441,2025-01-22,Web Development,StartupXYZ,Noida,1 July 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"React, JavaScript, HTML, CSS","Flexible working hours, Work from home"
+INT1442,2025-02-23,Machine Learning,InnovateTech,Gurgaon,15 June 2025,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"Python, TensorFlow, Deep Learning","5 days a week, Free snacks"
+INT1443,2025-03-24,Business Development,DataDriven Co,Chandigarh,Immediately,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Business Development, Sales, CRM","Informal dress code, Free snacks"
+INT1444,2025-04-25,Marketing,DesignHub,Indore,Immediately,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Digital Marketing, SEO, Google Analytics","Certificate, LOR"
+INT1445,2025-05-26,Content Writing,FinanceFirst,Work From Home,15 June 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Content Writing, Blogging, SEO",Flexible working hours
+INT1446,2025-06-27,Graphic Design,MarketMasters,Work From Home,1 June 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Photoshop, Illustrator, Figma",Health Insurance
+INT1447,2025-07-28,Finance,CodeCraft,Work From Home,1 August 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"Finance, Excel, Tally",None
+INT1448,2025-08-01,Human Resources,CreativeMinds,Mumbai,15 June 2025,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","HR, Recruitment, Excel","Flexible working hours, Work from home"
+INT1449,2025-09-02,Operations,GrowthLab,Delhi,1 June 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"Operations, MS Office, Excel","5 days a week, Free snacks"
+INT1450,2025-01-03,Python Development,AIVentures,Bangalore,1 August 2025,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Django, REST API","Informal dress code, Free snacks"
+INT1451,2025-02-04,Android Development,WebWizards,Hyderabad,1 July 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"Android, Kotlin, Java","Certificate, LOR"
+INT1452,2025-03-05,iOS Development,AppFactory,Chennai,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"iOS, Swift, Xcode",Flexible working hours
+INT1453,2025-04-06,UI/UX Design,CloudNine,Pune,1 August 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Figma, Adobe XD, Sketch",Health Insurance
+INT1454,2025-05-07,Digital Marketing,BizBoost,Kolkata,1 July 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Facebook Ads, Google Ads, SEO",None
+INT1455,2025-06-08,Social Media Marketing,ContentKing,Ahmedabad,Immediately,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Instagram, Facebook, Content Creation","Flexible working hours, Work from home"
+INT1456,2025-07-09,Video Editing,PixelPerfect,Jaipur,Immediately,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Premiere Pro, After Effects, Davinci Resolve","5 days a week, Free snacks"
+INT1457,2025-08-10,React Development,AnalyticsEdge,Noida,Immediately,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"React, Node.js, MongoDB","Informal dress code, Free snacks"
+INT1458,2025-09-11,Full Stack Development,MobileFirst,Gurgaon,Immediately,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Certificate, LOR"
+INT1459,2025-01-12,Data Analytics,DevStudio,Chandigarh,1 August 2025,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"SQL, Excel, Tableau, Power BI",Flexible working hours
+INT1460,2025-02-13,Data Science,TechCorp India,Indore,1 June 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Health Insurance
+INT1461,2025-03-14,Web Development,StartupXYZ,Work From Home,Immediately,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"React, JavaScript, HTML, CSS",None
+INT1462,2025-04-15,Machine Learning,InnovateTech,Work From Home,Immediately,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"Python, TensorFlow, Deep Learning","Flexible working hours, Work from home"
+INT1463,2025-05-16,Business Development,DataDriven Co,Work From Home,15 June 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Business Development, Sales, CRM","5 days a week, Free snacks"
+INT1464,2025-06-17,Marketing,DesignHub,Mumbai,Immediately,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Digital Marketing, SEO, Google Analytics","Informal dress code, Free snacks"
+INT1465,2025-07-18,Content Writing,FinanceFirst,Delhi,Immediately,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Content Writing, Blogging, SEO","Certificate, LOR"
+INT1466,2025-08-19,Graphic Design,MarketMasters,Bangalore,1 June 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Photoshop, Illustrator, Figma",Flexible working hours
+INT1467,2025-09-20,Finance,CodeCraft,Hyderabad,1 July 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"Finance, Excel, Tally",Health Insurance
+INT1468,2025-01-21,Human Resources,CreativeMinds,Chennai,1 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","HR, Recruitment, Excel",None
+INT1469,2025-02-22,Operations,GrowthLab,Pune,Immediately,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"Operations, MS Office, Excel","Flexible working hours, Work from home"
+INT1470,2025-03-23,Python Development,AIVentures,Kolkata,15 June 2025,Rs. 3000 /month,2 Months,2025-06-15,Certificate of Completion,B.Tech/B.E.,"Python, Django, REST API","5 days a week, Free snacks"
+INT1471,2025-04-24,Android Development,WebWizards,Ahmedabad,15 June 2025,Rs. 20000 /month,3 Months,2025-07-01,Letter of Recommendation,BCA,"Android, Kotlin, Java","Informal dress code, Free snacks"
+INT1472,2025-05-25,iOS Development,AppFactory,Jaipur,Immediately,Rs. 12000 /month,4 Months,2025-08-20,N/A,MCA,"iOS, Swift, Xcode","Certificate, LOR"
+INT1473,2025-06-26,UI/UX Design,CloudNine,Noida,15 June 2025,Performance based,6 Months,2025-09-30,"Certificate, PPO",MBA,"Figma, Adobe XD, Sketch",Flexible working hours
+INT1474,2025-07-27,Digital Marketing,BizBoost,Gurgaon,1 June 2025,Rs. 7000-10000 /month,1 Month,2025-05-31,"Certificate of Completion, Letter of Recommendation",B.Com,"Facebook Ads, Google Ads, SEO",Health Insurance
+INT1475,2025-08-28,Social Media Marketing,ContentKing,Chandigarh,1 August 2025,Rs. 2000 /month,5 Months,2025-10-15,Pre-Placement Offer (PPO),Any Graduate,"Instagram, Facebook, Content Creation",None
+INT1476,2025-09-01,Video Editing,PixelPerfect,Indore,1 June 2025,Rs. 25000 /month,8 Weeks,2025-06-30,Certificate of Completion,B.Sc,"Premiere Pro, After Effects, Davinci Resolve","Flexible working hours, Work from home"
+INT1477,2025-01-02,React Development,AnalyticsEdge,Work From Home,1 August 2025,Rs. 5000-8000 /month,12 Weeks,2025-07-15,Letter of Recommendation,M.Tech,"React, Node.js, MongoDB","5 days a week, Free snacks"
+INT1478,2025-02-03,Full Stack Development,MobileFirst,Work From Home,Immediately,N/A,2 Months,2025-08-01,N/A,"B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","Informal dress code, Free snacks"
+INT1479,2025-03-04,Data Analytics,DevStudio,Work From Home,15 June 2025,Rs. 18000 /month,3 Months,2025-11-30,"Certificate, PPO",Any,"SQL, Excel, Tableau, Power BI","Certificate, LOR"
+INT1480,2025-04-05,Data Science,TechCorp India,Mumbai,Immediately,Rs. 5000 /month,2 Months,2025-06-15,"Certificate of Completion, Letter of Recommendation",B.Tech/B.E.,"Python, Machine Learning, Data Analysis",Flexible working hours
+INT1481,2025-05-06,Web Development,StartupXYZ,Delhi,1 July 2025,Rs. 10000 /month,3 Months,2025-07-01,Pre-Placement Offer (PPO),BCA,"React, JavaScript, HTML, CSS",Health Insurance
+INT1482,2025-06-07,Machine Learning,InnovateTech,Bangalore,Immediately,Rs. 8000 /month,4 Months,2025-08-20,Certificate of Completion,MCA,"Python, TensorFlow, Deep Learning",None
+INT1483,2025-07-08,Business Development,DataDriven Co,Hyderabad,1 August 2025,Rs. 15000 /month,6 Months,2025-09-30,Letter of Recommendation,MBA,"Business Development, Sales, CRM","Flexible working hours, Work from home"
+INT1484,2025-08-09,Marketing,DesignHub,Chennai,1 June 2025,Unpaid,1 Month,2025-05-31,N/A,B.Com,"Digital Marketing, SEO, Google Analytics","5 days a week, Free snacks"
+INT1485,2025-09-10,Content Writing,FinanceFirst,Pune,1 June 2025,Rs. 3000 /month,5 Months,2025-10-15,"Certificate, PPO",Any Graduate,"Content Writing, Blogging, SEO","Informal dress code, Free snacks"
+INT1486,2025-01-11,Graphic Design,MarketMasters,Kolkata,1 June 2025,Rs. 20000 /month,8 Weeks,2025-06-30,"Certificate of Completion, Letter of Recommendation",B.Sc,"Photoshop, Illustrator, Figma","Certificate, LOR"
+INT1487,2025-02-12,Finance,CodeCraft,Ahmedabad,1 June 2025,Rs. 12000 /month,12 Weeks,2025-07-15,Pre-Placement Offer (PPO),M.Tech,"Finance, Excel, Tally",Flexible working hours
+INT1488,2025-03-13,Human Resources,CreativeMinds,Jaipur,1 July 2025,Performance based,2 Months,2025-08-01,Certificate of Completion,"B.Tech/B.E., MCA","HR, Recruitment, Excel",Health Insurance
+INT1489,2025-04-14,Operations,GrowthLab,Noida,Immediately,Rs. 7000-10000 /month,3 Months,2025-11-30,Letter of Recommendation,Any,"Operations, MS Office, Excel",None
+INT1490,2025-05-15,Python Development,AIVentures,Gurgaon,1 June 2025,Rs. 2000 /month,2 Months,2025-06-15,N/A,B.Tech/B.E.,"Python, Django, REST API","Flexible working hours, Work from home"
+INT1491,2025-06-16,Android Development,WebWizards,Chandigarh,1 August 2025,Rs. 25000 /month,3 Months,2025-07-01,"Certificate, PPO",BCA,"Android, Kotlin, Java","5 days a week, Free snacks"
+INT1492,2025-07-17,iOS Development,AppFactory,Indore,15 June 2025,Rs. 5000-8000 /month,4 Months,2025-08-20,"Certificate of Completion, Letter of Recommendation",MCA,"iOS, Swift, Xcode","Informal dress code, Free snacks"
+INT1493,2025-08-18,UI/UX Design,CloudNine,Work From Home,1 July 2025,N/A,6 Months,2025-09-30,Pre-Placement Offer (PPO),MBA,"Figma, Adobe XD, Sketch","Certificate, LOR"
+INT1494,2025-09-19,Digital Marketing,BizBoost,Work From Home,1 August 2025,Rs. 18000 /month,1 Month,2025-05-31,Certificate of Completion,B.Com,"Facebook Ads, Google Ads, SEO",Flexible working hours
+INT1495,2025-01-20,Social Media Marketing,ContentKing,Work From Home,1 August 2025,Rs. 5000 /month,5 Months,2025-10-15,Letter of Recommendation,Any Graduate,"Instagram, Facebook, Content Creation",Health Insurance
+INT1496,2025-02-21,Video Editing,PixelPerfect,Mumbai,1 June 2025,Rs. 10000 /month,8 Weeks,2025-06-30,N/A,B.Sc,"Premiere Pro, After Effects, Davinci Resolve",None
+INT1497,2025-03-22,React Development,AnalyticsEdge,Delhi,15 June 2025,Rs. 8000 /month,12 Weeks,2025-07-15,"Certificate, PPO",M.Tech,"React, Node.js, MongoDB","Flexible working hours, Work from home"
+INT1498,2025-04-23,Full Stack Development,MobileFirst,Bangalore,1 June 2025,Rs. 15000 /month,2 Months,2025-08-01,"Certificate of Completion, Letter of Recommendation","B.Tech/B.E., MCA","Full Stack, Python, JavaScript, SQL","5 days a week, Free snacks"
+INT1499,2025-05-24,Data Analytics,DevStudio,Hyderabad,1 August 2025,Unpaid,3 Months,2025-11-30,Pre-Placement Offer (PPO),Any,"SQL, Excel, Tableau, Power BI","Informal dress code, Free snacks"
