@@ -18,5 +18,6 @@ data/processed/*
 # Keep folders
 !data/interim/.gitkeep
 !data/processed/.gitkeep
+!data/processed/internships_clean.csv
 tmp_replit_import/
 *.zip
