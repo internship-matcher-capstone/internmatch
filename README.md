@@ -17,3 +17,5 @@ This app recommends relevant internships based on user-entered skills and curren
 - Streamlit
 - Pandas
 - Scikit-learn
+
+```Project status: Initial Streamlit MVP under active development.```
