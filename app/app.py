@@ -85,7 +85,7 @@ def main():
         st.header("Search")
 
         query = st.text_area(
-            "Enter skills / interests",
+            "Enter your skills",
             placeholder="Python, SQL, machine learning, data analysis, cybersecurity",
             height=120
         )
@@ -101,12 +101,12 @@ def main():
         profile_filter = st.selectbox("Profile", profiles, index=0)
         top_n = st.slider("Number of results", min_value=5, max_value=25, value=10)
 
-        run_search = st.button("Find internships", use_container_width=True)
+        run_search = st.button("Get recommendations", use_container_width=True)
 
     tab1, tab2, tab3 = st.tabs(["Recommendations", "Insights", "Dataset Preview"])
 
     with tab1:
-        st.subheader("Recommended internships")
+        st.subheader("Top matching internships")
 
         if run_search:
             results = get_recommendations(
@@ -118,7 +118,7 @@ def main():
             )
 
             if results.empty:
-                st.info("No internships matched the current query/filters.")
+                st.info("No internships matched these filters.")
             else:
                 st.write(f"Showing top {len(results)} matches")
                 for _, row in results.iterrows():
@@ -130,7 +130,7 @@ def main():
         render_insights(df)
 
     with tab3:
-        st.subheader("Dataset preview")
+        st.subheader("Sample data")
         st.dataframe(df.head(50), use_container_width=True)
 
 
