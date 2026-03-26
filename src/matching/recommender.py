@@ -12,7 +12,6 @@ def _build_search_text(df: pd.DataFrame) -> pd.Series:
     return (
         df["profile"].fillna("") + " "
         + df["skills"].fillna("") + " "
-        + df["skills"].fillna("") + " "
         + df["education"].fillna("") + " "
         + df["company"].fillna("") + " "
         + df["location"].fillna("") + " "
