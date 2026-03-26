@@ -67,7 +67,7 @@ def show_result_card(row):
 
 def main():
     st.title("InternMatch")
-    st.caption("Internship recommendation MVP for IIT Patna capstone")
+    st.caption("Skill-based internship matching project for IIT Patna capstone")
 
     try:
         df = get_dataset()
